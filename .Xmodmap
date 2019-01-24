@@ -9,4 +9,6 @@ keycode 30 = u U Prior
 keycode 32 = o O Next
 keycode 43 = h H Home
 keycode 57 = n N End
+keycode 9 = Escape asciitilde grave
 keycode 22 = BackSpace BackSpace Delete
+
