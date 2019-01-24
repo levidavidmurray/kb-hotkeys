@@ -1,3 +1,3 @@
-cp ./.Xmodmap ~/
-cp xmodmap.desktop ~/.config/autostart/
+cp cfg/.Xmodmap ~/
+cp cfg/xmodmap.desktop ~/.config/autostart/
 xmodmap ~/.Xmodmap
