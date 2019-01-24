@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=xmodmap ~/.Xmodmap
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_CA]=Xmodmap
+Name=Xmodmap
+Comment[en_CA]=Setting initial xmod settings with ~/.Xmodmap
+Comment=Setting initial xmod settings with ~/.Xmodmap
