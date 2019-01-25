@@ -3,7 +3,7 @@ Map linux hotkeys to mimic POK3R's caps lock function key functionality through 
 
 Use command line tool `xev` to find keycode's and key names to add to or change existing new_keys
 
-`new_keys`
+### new_keys
 
 ```
 keycode 66 = Mode_switch
