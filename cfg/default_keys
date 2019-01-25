@@ -1,0 +1,14 @@
+keycode 66 = Caps_Lock
+
+keycode 31 = i I
+keycode 45 = k K
+keycode 44 = j J
+keycode 46 = l L
+
+keycode 30 = u U
+keycode 32 = o O
+keycode 43 = h H
+keycode 57 = n N
+keycode 9 = Escape
+keycode 22 = BackSpace BackSpace
+
