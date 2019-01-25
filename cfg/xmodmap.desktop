@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=Application
-Exec=xmodmap ~/.Xmodmap
+Exec=xmodmap ~/.config/kb-hotkeys/new_keys
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
 Name[en_CA]=Xmodmap
 Name=Xmodmap
-Comment[en_CA]=Set initial xmod settings with ~/.Xmodmap
-Comment=Set initial xmod settings with ~/.Xmodmap
+Comment[en_CA]=Set initial xmod settings with ~/.config/kb-hotkeys/new_keys
+Comment=Set initial xmod settings with ~/.config/kb-hotkeys/new_keys
