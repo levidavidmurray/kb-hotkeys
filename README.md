@@ -1,6 +1,13 @@
 # kb-hotkeys
 Map linux hotkeys to mimic POK3R's caps lock function key functionality through xmodmap.
 
+## Usage
+```shell
+git clone https://github.com/levidavidmurray/kb-hotkeys.git
+cd kb-hotkeys
+./setup.sh
+```
+#
 Use command line tool `xev` to find keycodes and key names to add to or change existing new_keys config.
 
 ### new_keys
